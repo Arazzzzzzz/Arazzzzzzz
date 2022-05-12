@@ -1,4 +1,4 @@
-<h1 align="center">Salam 👋, Mən Quliyev</h1>
+<h1 align="center">Salam 👋, Mən Araz</h1>
 <h3 align="center">Bir hobbi kimi bu işləri öyrənməyə başladım.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sekret666&label=Profile%20views&color=0e75b6&style=flat" alt="sekret666" /> </p>
