@@ -1,20 +1,20 @@
 <h1 align="center">Salam 👋, Mən Araz</h1>
 <h3 align="center">Bir hobbi kimi bu işləri öyrənməyə başladım.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sekret666&label=Profile%20views&color=0e75b6&style=flat" alt="sekret666" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Arazzzzzzz&label=Profile%20views&color=0e75b6&style=flat" alt="Arazzzzzzz" /> </p>
 
 
 - 🔭 Hal-hazırda öyrəndiyim mövzu [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 - 🌱 Öyrəndiyim dillər: **Python,Java,Php,Html,Go**
 
-- 👯 Daha çox marağım olduğu sahə isə [Tag botları](t.me/Arazdi
+- 👯 Daha çox marağım olduğu sahə isə [Tag botları](t.me/Arazdi)
 
 - 🤝 Mənə dəstək olan kanal [Dark Web Azerbaijan](https://t.me/darkwebazerbaijan)
 
-- 💬 Sualınız olarsa: [Quliyev](t.me/quliyev606)
+- 💬 Sualınız olarsa: [Araz](t.me/Arazdi)
 
-- 📫 Əlaqə saxlamaq üçün **azizgaming17@gmail.com**
+- 📫 Əlaqə saxlamaq üçün **arazqhrmanli91@gmail.com**
 
 
 <h3 align="left">Lazımlı dillər və alətlər :</h3>
